@@ -37,35 +37,5 @@ The app creates this file automatically when you run it:
 
 `project_app.db`
 
-You do not need to install MySQL or SQL Server.
-
-## Test steps
-
-1. Open the app.
-2. Click "Create Account".
-3. Register using:
-   - Name: Asri
-   - Email: asri@gmail.com
-   - Phone: 0781234567
-   - Date of Birth: 18/05/2003
-   - Password: 123456
-   - Confirm Password: 123456
-   - Address: Jordan
-   - Security Answer: blue
-4. Login with the email and password.
-5. Open Customer Management.
-6. Add a customer.
-7. Open Service Management.
-8. Add a service using the customer ID from the customer table.
-
-## Screenshots for Phase 3 document
-
-Take screenshots of:
-
-1. Login screen
-2. Register screen with validation error
-3. Register success
-4. Dashboard screen
-5. Customer Management with real customer data in table
-6. Service Management with real service/order data in table
-7. Delete confirmation popup
+You do not need to install MySQL or SQL Server. 
+note this is ai genreated
